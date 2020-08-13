@@ -1,1 +1,3 @@
 New Branch File For merge conflict.
+
+Try to get them at same stage.
