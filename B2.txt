@@ -1,3 +1,5 @@
 Adding a rebase file branch.
 
 Commit to be picked.
+
+Commit not to be picked.
